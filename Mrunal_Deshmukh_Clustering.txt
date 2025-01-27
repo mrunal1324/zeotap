@@ -1,0 +1,6 @@
+Clustering Results:
+
+n_clusters: 7
+db_index: 1.2823023093813977
+silhouette_score: 0.2154709006197477
+cluster_sizes: [26, 25, 57, 32, 16, 15, 28]
